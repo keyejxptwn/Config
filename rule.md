@@ -10,6 +10,8 @@
 
 3. ### CJX’s Annoyance List
 
+   `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt`
+
 4. ### EasylistChina+EasylistLite+CJX’sAnnoyance
 
    `https://gitee.com/halflife/list/raw/master/ad.txt`
