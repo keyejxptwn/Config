@@ -37,3 +37,6 @@
 8. ### Google Host
 
    `https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts`
+9. ### 手机专用规则
+
+   `https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt`
